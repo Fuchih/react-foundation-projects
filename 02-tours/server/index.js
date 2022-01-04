@@ -1,5 +1,6 @@
 const express = require('express')
-const { tours } = require('./data')
+const { readFileSync } = require('fs')
+const { resolve } = require('path')
 const app = express()
 
 app.all('*', (req, res, next) => {
@@ -8,8 +9,12 @@ app.all('*', (req, res, next) => {
   next()
 })
 
+const tourData = JSON.parse(
+  readFileSync(resolve(__dirname, './data.json'), 'utf8')
+)
+
 app.get('/api', (req, res) => {
-  res.status(200).json(tours)
+  res.send(tourData)
 })
 
 app.listen(8080, () => {
