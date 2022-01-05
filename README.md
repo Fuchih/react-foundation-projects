@@ -8,3 +8,4 @@
 | 03   | [reviews](https://github.com/Fuchih/react-foundation-projects/tree/main/03-reviews) | [**DEMO**](https://infallible-albattani-5d5ded.netlify.app/)|
 | 04   | [accordion](https://github.com/Fuchih/react-foundation-projects/tree/main/04-accordion) | [**DEMO**](https://hungry-beaver-7e5336.netlify.app)|
 | 05   | [menu](https://github.com/Fuchih/react-foundation-projects/tree/main/05-menu) | [**DEMO**](https://nifty-murdock-320552.netlify.app/)|
+| 05   | [tabs](https://github.com/Fuchih/react-foundation-projects/tree/main/06-tabs) | [**DEMO**](https://ecstatic-newton-2b86c6.netlify.app/)|
