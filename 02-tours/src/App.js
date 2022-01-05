@@ -14,13 +14,11 @@ function App() {
     setLoading(true)
 
     try {
-      const res = await (await fetch('http://localhost:8080/api')).json()
+      const res = await (await fetch('https://res.cloudinary.com/t19887348/raw/upload/v1641374437/iyb2ygd01544zy2d2d0q.json')).json()
       setTourData(res)
       setLoading(false)
     } catch (error) {
-      alert(
-        'Oops! You need to start the server \n open terminal : 1.cd server 2. node index.js'
-      )
+      console.log(error)
       setLoading(false)
     }
   }
