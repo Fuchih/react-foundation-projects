@@ -10,3 +10,4 @@
 | 05   | [Menu](https://github.com/Fuchih/react-foundation-projects/tree/main/05-menu) | [**DEMO**](https://nifty-murdock-320552.netlify.app/)|
 | 06   | [Tabs](https://github.com/Fuchih/react-foundation-projects/tree/main/06-tabs) | [**DEMO**](https://ecstatic-newton-2b86c6.netlify.app/)|
 | 07   | [Slider](https://github.com/Fuchih/react-foundation-projects/tree/main/07-slider) | [**DEMO**](https://inspiring-hugle-eb181b.netlify.app)|
+| 08   | [Lorem Ipsum](https://github.com/Fuchih/react-foundation-projects/tree/main/08-lorem-ipsum) | [**DEMO**](https://dreamy-aryabhata-2a9de8.netlify.app)|
