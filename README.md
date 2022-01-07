@@ -12,3 +12,4 @@
 | 07   | [Slider](https://github.com/Fuchih/react-foundation-projects/tree/main/07-slider) | [**DEMO**](https://inspiring-hugle-eb181b.netlify.app)|
 | 08   | [Lorem Ipsum](https://github.com/Fuchih/react-foundation-projects/tree/main/08-lorem-ipsum) | [**DEMO**](https://dreamy-aryabhata-2a9de8.netlify.app)|
 | 09   | [Color Generator](https://github.com/Fuchih/react-foundation-projects/tree/main/09-color-generator) | [**DEMO**](https://ecstatic-perlman-e936cc.netlify.app)|
+| 10   | [Grocery Bud](https://github.com/Fuchih/react-foundation-projects/tree/main/10-grocery-bud) | [**DEMO**](https://cranky-mahavira-87f911.netlify.app)|
