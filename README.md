@@ -17,3 +17,4 @@
 | 12   | [Sidebar And Modal](https://github.com/Fuchih/react-foundation-projects/tree/main/12-sidebar-modal) | [**DEMO**](https://awesome-jepsen-099288.netlify.app)|
 | 13   | [Submenus](https://github.com/Fuchih/react-foundation-projects/tree/main/13-submenus) | [**DEMO**](https://vigilant-nobel-9e304a.netlify.app)|
 | 14   | [Cart](https://github.com/Fuchih/react-foundation-projects/tree/main/14-cart) | [**DEMO**](https://elegant-spence-357bdb.netlify.app)|
+| 15   | [Cocktails](https://github.com/Fuchih/react-foundation-projects/tree/main/15-cocktails) | [**DEMO**](https://eloquent-agnesi-2dbf1d.netlify.app)|
