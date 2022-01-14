@@ -19,3 +19,4 @@
 | 14   | [Cart](https://github.com/Fuchih/react-foundation-projects/tree/main/14-cart) | [**DEMO**](https://elegant-spence-357bdb.netlify.app)|
 | 15   | [Cocktails](https://github.com/Fuchih/react-foundation-projects/tree/main/15-cocktails) | [**DEMO**](https://optimistic-meninsky-75a530.netlify.app)|
 | 16   | [Markdown Preview](https://github.com/Fuchih/react-foundation-projects/tree/main/16-markdown-preview) | [**DEMO**](https://mystifying-jang-d8194f.netlify.app)|
+| 17   | [Random Person](https://github.com/Fuchih/react-foundation-projects/tree/main/17-random-person) | [**DEMO**](https://relaxed-perlman-b0d058.netlify.app)|
