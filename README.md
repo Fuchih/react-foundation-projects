@@ -22,3 +22,4 @@
 | 18  | [Pagination](https://github.com/Fuchih/react-foundation-projects/tree/main/18-pagination)               | [**DEMO**](https://musing-lovelace-9e0310.netlify.app)         |
 | 19  | [Stock Photos](https://github.com/Fuchih/react-foundation-projects/tree/main/19-stock-photos)           | [**DEMO**](https://react-projects-19-stock-photos.netlify.app) |
 | 20  | [Dark Mode](https://github.com/Fuchih/react-foundation-projects/tree/main/20-dark-mode)                 | [**DEMO**](https://hardcore-heisenberg-558fc1.netlify.app)     |
+| 21  | [Movie DB](https://github.com/Fuchih/react-foundation-projects/tree/main/21-movie-db)                   | [**DEMO**](https://boring-thompson-97b098.netlify.app)         |
