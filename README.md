@@ -23,3 +23,4 @@
 | 19  | [Stock Photos](https://github.com/Fuchih/react-foundation-projects/tree/main/19-stock-photos)           | [**DEMO**](https://react-projects-19-stock-photos.netlify.app) |
 | 20  | [Dark Mode](https://github.com/Fuchih/react-foundation-projects/tree/main/20-dark-mode)                 | [**DEMO**](https://hardcore-heisenberg-558fc1.netlify.app)     |
 | 21  | [Movie DB](https://github.com/Fuchih/react-foundation-projects/tree/main/21-movie-db)                   | [**DEMO**](https://boring-thompson-97b098.netlify.app)         |
+| 22  | [Hacker News](https://github.com/Fuchih/react-foundation-projects/tree/main/22-hacker-news)             | [**DEMO**](https://nostalgic-brown-882cd4.netlify.app)         |
