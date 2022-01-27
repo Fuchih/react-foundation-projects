@@ -24,3 +24,4 @@
 | 20  | [Dark Mode](https://github.com/Fuchih/react-foundation-projects/tree/main/20-dark-mode)                 | [**DEMO**](https://hardcore-heisenberg-558fc1.netlify.app)     |
 | 21  | [Movie DB](https://github.com/Fuchih/react-foundation-projects/tree/main/21-movie-db)                   | [**DEMO**](https://boring-thompson-97b098.netlify.app)         |
 | 22  | [Hacker News](https://github.com/Fuchih/react-foundation-projects/tree/main/22-hacker-news)             | [**DEMO**](https://nostalgic-brown-882cd4.netlify.app)         |
+| 23  | [Quiz](https://github.com/Fuchih/react-foundation-projects/tree/main/23-quiz)                           | [**DEMO**](https://jolly-clarke-591690.netlify.app)            |

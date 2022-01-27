@@ -1,5 +1,9 @@
 import { call, put, takeLatest, fork, all } from 'redux-saga/effects'
-import { fetchDataStart, fetchDataSuccess, fetchDataFail } from './fetchQuizSlice'
+import {
+  fetchDataStart,
+  fetchDataSuccess,
+  fetchDataFail,
+} from './fetchQuizSlice'
 import { getQuiz } from './api'
 
 function* fetchData({ payload }) {

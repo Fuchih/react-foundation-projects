@@ -1,12 +1,18 @@
-import { useState } from 'react'
-import { useSelector } from 'react-redux'
+import { useState, useEffect } from 'react'
+import { useSelector, useDispatch } from 'react-redux'
+import { handleModalOpen, CalculatePercentage } from '../redux/modalSlice'
 
 const Quiz = () => {
   const [index, setIndex] = useState(0)
   const [correct, setCorrect] = useState(0)
-
   const { quizzes } = useSelector((state) => state.data)
   const { question, correct_answer, incorrect_answers } = quizzes[index]
+  const dispatch = useDispatch()
+  const percentage = ((correct / quizzes.length) * 100).toFixed(0)
+
+  useEffect(() => {
+    dispatch(CalculatePercentage(percentage))
+  }, [dispatch, percentage])
 
   const answers = [...incorrect_answers]
   const randomIndex = Math.floor(Math.random() * 4)
@@ -17,6 +23,9 @@ const Quiz = () => {
     setIndex((prevIndex) => {
       const index = prevIndex + 1
       if (index > quizzes.length - 1) {
+        setTimeout(() => {
+          dispatch(handleModalOpen(true))
+        }, 0)
         return 0
       } else {
         return index

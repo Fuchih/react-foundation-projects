@@ -178,6 +178,7 @@ main {
 }
 
 .container h2 {
+  min-height    : 15rem;
   margin-bottom : 2rem;
   text-align    : center;
   line-height   : 1.5;
